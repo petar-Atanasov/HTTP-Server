@@ -8,6 +8,10 @@ import java.net.Socket;
 import java.util.Date;
 
 public class ApplicationRunner {
+    
+    /*
+        *Creating HTTP Server
+    */
 
 //    public static void main(String[] args) throws Exception {
 //        final ServerSocket server = new ServerSocket(8080);
